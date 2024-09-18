@@ -1,0 +1,49 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    margin: 20px;
+    padding: 0;
+    background-color: aliceblue;
+
+}
+h1 {
+    text-align: center;
+    color: aqua;
+}
+
+form {
+    max-width: 600px;
+    margin:auto;
+    background-color: azure;
+    border-radius: 8px;
+    box-shadow: 0cap;
+    padding: 20px;
+
+}
+
+fieldset{
+    border: 4;
+    border-radius: 8px;
+    box-shadow: none;
+    background-color: aliceblue;
+}
+
+legend{
+    font-weight: bold;
+    text-align: left;
+    color: black;
+
+}
+label{
+    display:block;
+    margin-top: 10px;
+    color: black;
+
+}
+
+button{
+    background-color: aquamarine;
+    display:block;
+}
+button:hover{
+    background-color: aqua;
+}
